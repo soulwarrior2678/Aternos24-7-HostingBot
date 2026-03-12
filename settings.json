@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "Marloww",
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
-    "version": "",
+    "ip": "PlayWarriors.aternos.me",
+    "port": 64750,
+    "version": "1.21.4",
     "try-creative": false
   },
   "position": {
